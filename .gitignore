@@ -1,0 +1,14 @@
+#Playwright
+allure-report/
+/allure-results/
+/Automation-demo/
+/node_modules/
+/Orangehrm/
+/playwright-report/
+/Practice/
+/Projectobjects_ts/
+/screenshot/
+/test-result/
+/tests/
+/utils/
+
